@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the accompanying manuscript."
+title: "AHT Decision-Support Framework"
+version: "2.0"
+type: software
+authors:
+  - family-names: Glowinski
+    given-names: Sebastian
+  - family-names: Glowinska
+    given-names: Alina
